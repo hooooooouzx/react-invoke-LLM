@@ -1,0 +1,17 @@
+.navigation {
+  display: flex;
+  gap: 1rem;
+  padding: 1rem;
+  background-color: #1f2937;
+  color: white;
+}
+
+.navigation a {
+  color: white;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.navigation a:hover {
+  color: #d1d5db;
+} 
